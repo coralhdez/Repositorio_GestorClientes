@@ -1,8 +1,10 @@
+<!--meta: para refrescar la página -->
+<meta http-equiv="refresh" content="0;url=${pageContext.request.ContextPath}/ServletControlador">
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Start Page</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>JSP Page</title>
     </head>
     <body>
         <h1>Hello World!</h1>
